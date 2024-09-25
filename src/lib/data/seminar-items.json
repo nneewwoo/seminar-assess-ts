@@ -1,0 +1,872 @@
+[
+	{
+		"title": "Pagpanudlo nahungod sa edukasyon (LITERACY) - Education",
+		"questions": [
+			{
+				"question": " Ano ang pinakamalawak na kahulugan ng literacy?",
+				"answers": [
+					"Kakayahang magsulat lamang",
+					"Kakayahang magbasa, magsulat, at makaunawa",
+					"Kakayahang magturo",
+					"Kakayahang makinig"
+				],
+				"correct": 1
+			},
+			{
+				"question": "Ano ang pangunahing benepisyo ng pagkakaroon ng mataas na literacy rate?",
+				"answers": [
+					"Mas maraming panahon sa paglalaro",
+					"Mas malaking kita sa trabaho",
+					"Mas malawak na oportunidad sa edukasyon at trabaho",
+					"Mas maraming oras sa pakikipagkaibigan"
+				],
+				"correct": 2
+			},
+			{
+				"question": "Paano naiimpluwensyahan ng edukasyon ang pag-unlad ng isang komunidad?",
+				"answers": [
+					"Nagiging mas aktibo sa sports",
+					"Nagkakaroon ng mas mataas na antas ng kabuhayan",
+					"Nagiging mas matulungin sa komunidad",
+					"Nagiging masaya ang lahat"
+				],
+				"correct": 1
+			},
+			{
+				"question": "Ano ang pangunahing layunin ng reading comprehension?",
+				"answers": [
+					"Pagbilang ng mga letra",
+					"Pag-unawa sa mga ideya at impormasyon mula sa binabasa",
+					"Pagsulat ng mga tula",
+					"Pagbabasa ng mga numero"
+				],
+				"correct": 1
+			},
+			{
+				"question": "Ano ang epekto ng maagang pagtuturo ng literacy sa mga bata?",
+				"answers": [
+					"Nagiging tamad sila",
+					"Nagiging mas aktibo sila sa pakikipaglaro",
+					"Nagiging handa sila para sa mas mataas na antas ng edukasyon",
+					"Nagiging makulit sa klase"
+				],
+				"correct": 2
+			},
+			{
+				"question": "Alin ang mahalagang kasanayan sa pagsulat ng mga salita?",
+				"answers": ["Pagbilang", "Pag-unawa sa baybay", "Pagbigkas ng mga titik", "Pag-awit"],
+				"correct": 1
+			},
+			{
+				"question": "Bakit mahalaga ang functional literacy?",
+				"answers": [
+					"Para makapagbasa lamang",
+					"Para matutunan ang mga kasanayan sa araw-araw na buhay",
+					"Para matutunan ang mga kasanayan sa sports",
+					" Para matutunan ang pagguhit"
+				],
+				"correct": 1
+			},
+			{
+				"question": "Anong epekto ang maaaring idulot ng kawalan ng literacy?",
+				"answers": [
+					"Hirap sa paghahanap ng trabaho",
+					"Mas maraming kaibigan",
+					"Mas mataas na antas ng kasiyahan",
+					"Mas maraming libreng oras"
+				],
+				"correct": 0
+			},
+			{
+				"question": "Paano nakatutulong ang pagbabasa sa mga bata?",
+				"answers": [
+					"Nakatutulong ito sa kanilang imahinasyon at kritikal na pag-iisip",
+					"Pinipigilan nito ang paglalaro",
+					"Ginagawa silang mas masaya",
+					"Nagtuturo ito ng pakikipagkaibigan"
+				],
+				"correct": 0
+			},
+			{
+				"question": "Alin sa mga sumusunod ang maaaring maging sanhi ng mababang literacy rate",
+				"answers": [
+					"Kawalan ng sapat na mga aklat at materyales sa pagbabasa",
+					"Maraming gamit sa paaralan",
+					"Sobrang paggamit ng teknolohiya",
+					"Sobrang oras sa paglalaro"
+				],
+				"correct": 0
+			},
+			{
+				"question": "Ano ang isa sa mga pinakamahusay na paraan upang mapahusay ang kakayahang magbasa ng mga mag-aaral?",
+				"answers": [
+					"Pagbabasa araw-araw",
+					"Pagtutok sa mga gadgets",
+					"Paglalaro ng video games",
+					"Panonood ng telebisyon"
+				],
+				"correct": 0
+			},
+			{
+				"question": "Paano mapapabuti ng mga magulang ang literacy ng kanilang anak?",
+				"answers": [
+					"Pagbabasa ng mga kwento sa kanila",
+					"Pabayaan silang mag-aral ng mag-isa",
+					"Hayaang maglaro buong araw",
+					"Palaging naglalakbay"
+				],
+				"correct": 0
+			},
+			{
+				"question": "Alin sa mga sumusunod ang pangunahing layunin ng literacy sa edukasyon?",
+				"answers": [
+					"Upang makipaglaro sa mga kaklase",
+					"Upang makapag-aral ng mas mataas na konsepto",
+					"Upang mag-enjoy sa paaralan",
+					"Upang matutong sumayaw"
+				],
+				"correct": 1
+			},
+			{
+				"question": "Paano nakakatulong ang mga teknolohiya sa pagtaas ng literacy rate?",
+				"answers": [
+					"Paggamit ng mga Pagpanudlo nahungod sa edukasyon (LITERACY) - Educational apps at online tools",
+					"Panonood ng mga pelikula",
+					"Pakikipag-chat sa mga kaibigan",
+					"Paglalaro ng mga games online"
+				],
+				"correct": 0
+			},
+			{
+				"question": "Ano ang isang epektibong paraan upang mapaunlad ang literacy sa isang komunidad?",
+				"answers": [
+					"Pagbibigay ng mga libro at access sa mga library",
+					"Pagtigil ng mga klase",
+					"Pagbabasa ng mga kwento kasama ang magulang",
+					"Pagpupunta sa mga mall"
+				],
+				"correct": 0
+			}
+		],
+		"eval": [
+			{
+				"question": "Sample eval for Literacy",
+				"answers": [""]
+			}
+		]
+	},
+	{
+		"title": "Pagpanudlo nahungod sa Bakes and Pastries - Food Technology",
+		"questions": [
+			{
+				"question": "What are the basic ingredients in bread making?",
+				"answers": [
+					"Flour, water, yeast, and sugar",
+					"Flour, water, yeast, and salt",
+					"Flour, butter, yeast, and salt",
+					"Flour, eggs, water, and salt"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What is gluten, and why is it important in bread making?",
+				"answers": [
+					"A type of starch that helps bread rise",
+					"A sugar that adds sweetness to bread",
+					"A protein that gives bread its structure and elasticity",
+					"A fat that makes bread soft"
+				],
+				"correct": 2
+			},
+			{
+				"question": "What does 'proofing' mean in bread making?",
+				"answers": [
+					"Baking the bread at a low temperature",
+					"Letting the dough rest to develop flavor",
+					"Allowing the dough to rise before baking",
+					"Mixing the ingredients slowly"
+				],
+				"correct": 2
+			},
+			{
+				"question": "What type of yeast is most commonly used in baking?",
+				"answers": [
+					"Fresh yeast",
+					"Wild yeast",
+					"Active dry yeast and instant yeast",
+					"Liquid yeast"
+				],
+				"correct": 2
+			},
+			{
+				"question": "Why is it important to knead bread dough?",
+				"answers": [
+					"To make the dough sweeter",
+					"To develop the gluten network",
+					"To incorporate more air",
+					"To mix the ingredients evenly"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What is the purpose of scoring bread before baking?",
+				"answers": [
+					"To help the bread rise evenly",
+					"To make the crust softer",
+					"To release steam from inside the dough",
+					"To create a decorative pattern"
+				],
+				"correct": 0
+			},
+			{
+				"question": "What is the role of sugar in bread making?",
+				"answers": [
+					"It feeds the yeast and helps with browning",
+					"It toughens the dough",
+					"It slows down the fermentation process",
+					"It creates air bubbles in the dough"
+				],
+				"correct": 0
+			},
+			{
+				"question": "How does steam affect bread baking?",
+				"answers": [
+					"It makes the bread dense",
+					"It helps create a crispy crust",
+					"It cools the bread quickly",
+					"It makes the bread chewy"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What is the creaming method in pastry making?",
+				"answers": [
+					"Mixing sugar and butter together until light and fluffy",
+					"Folding flour into wet ingredients",
+					"Beating eggs until stiff peaks form",
+					"Mixing all ingredients at once"
+				],
+				"correct": 0
+			},
+			{
+				"question": "What is blind baking?",
+				"answers": [
+					"Baking a pastry without filling",
+					"Baking bread without yeast",
+					"Baking with the oven door closed",
+					"Baking dough covered with foil"
+				],
+				"correct": 0
+			},
+			{
+				"question": " What type of flour is typically used for bread making?",
+				"answers": ["Cake flour", "Bread flour", "All-purpose flour", "Self-rising flour"],
+				"correct": 1
+			},
+			{
+				"question": "Which fat is commonly used in puff pastry?",
+				"answers": [" Butter", "Lard", ". Shortening", "Olive oil"],
+				"correct": 0
+			},
+			{
+				"question": "Why is cold butter used in making pastry dough?",
+				"answers": [
+					"It improves the dough's elasticity",
+					"It helps the dough rise",
+					"It creates layers in the dough",
+					"It makes the dough softer"
+				],
+				"correct": 2
+			},
+			{
+				"question": "What is lamination in pastry?",
+				"answers": [
+					"Rolling out dough very thin",
+					"Folding butter into dough multiple times",
+					"Kneading dough until elastic",
+					"Mixing ingredients until smooth"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What is the difference between a sponge cake and a pound cake?",
+				"answers": [
+					"Sponge cake uses more eggs and less fat",
+					"Pound cake uses yeast as a leavening agent",
+					"Sponge cake is denser than pound cake",
+					"Pound cake uses more water than sponge cake"
+				],
+				"correct": 0
+			},
+			{
+				"question": "What is a common leavening agent in pastries like puff pastry?",
+				"answers": ["Yeast", ". Baking soda", "Steam", "Eggs"],
+				"correct": 2
+			},
+			{
+				"question": "What is the role of eggs in pastry making?",
+				"answers": [
+					"To thicken the dough",
+					"To act as a leavening agent",
+					"To add moisture and richness",
+					"To make the dough rise quickly"
+				],
+				"correct": 2
+			},
+			{
+				"question": "What temperature is ideal for baking most breads",
+				"answers": ["200°F", "350°F", "450°F", "500°F"],
+				"correct": 2
+			},
+			{
+				"question": "What is the French term for a bread starter?",
+				"answers": ["Biga", "Levain", "Poolish", "Autolyse"],
+				"correct": 1
+			},
+			{
+				"question": "Which pastry is known for its flaky texture due to layers of butter and dough?",
+				"answers": ["Choux pastry", "Phyllo pastry", "Puff pastry", " Shortcrust pastry"],
+				"correct": 2
+			}
+		],
+		"eval": [
+			{
+				"question": "Sample eval for bakes and pastries",
+				"answers": [""]
+			}
+		]
+	},
+	{
+		"title": "Pagpanudlo nahungod sa Fisheries Management",
+		"questions": [
+			{
+				"question": "Where does red tide occur?",
+				"answers": ["in land", "in air", "in sea"],
+				"correct": 2
+			},
+			{
+				"question": "What causes red tide?",
+				"answers": ["bacteria", "algae", "virus"],
+				"correct": 1
+			},
+			{
+				"question": "What is the other term for red tide?",
+				"answers": ["killer tide", "harmful algal bloom", "strangers tide"],
+				"correct": 1
+			},
+			{
+				"question": "What is the scientific equipment used to examine the algae?",
+				"answers": ["Microscope", "Telescope", "Stethoscope"],
+				"correct": 0
+			},
+			{
+				"question": "What are the marine species that are filter feeders?",
+				"answers": ["pterodactyl", "Janitor Fish", "Bivalves"],
+				"correct": 2
+			},
+			{
+				"question": "Algae is",
+				"answers": ["bird", "Fish", "Microorganism"],
+				"correct": 2
+			},
+			{
+				"question": "Where does algae mostly grow?",
+				"answers": ["in dry places", "in wet places", "Both"],
+				"correct": 1
+			},
+			{
+				"question": "Where does algae find its food?",
+				"answers": ["From other algae", "It creates its food", "From the love of the others"],
+				"correct": 1
+			},
+			{
+				"question": "What is a dinoflagellate?",
+				"answers": ["An algae", "A Fish", "A dinosaur"],
+				"correct": 0
+			},
+			{
+				"question": "What color does algae look?",
+				"answers": ["brown", "red", "green", "all of the above"],
+				"correct": 3
+			},
+			{
+				"question": "What is Fisheries",
+				"answers": ["Aquaculture", "Mariculture", "All of the above"],
+				"correct": 0
+			},
+			{
+				"question": "Aquaculture is related to?",
+				"answers": ["Farming", "Handling", "Culture", "All of the above"],
+				"correct": 3
+			},
+			{
+				"question": "It is related to the activities, processes and steps after harvesting",
+				"answers": ["Fisheries post-harvest", "Pre-harvest", "Farming"],
+				"correct": 0
+			},
+			{
+				"question": "What is capture Fisheries",
+				"answers": [
+					"Harvesting of aquatic resources only in freshwater environment",
+					"Harvesting of aquatic resources only in both marine and freshwater environment",
+					"Harvesting of aquatic resources only in marine environment"
+				],
+				"correct": 1
+			},
+			{
+				"question": "The breeding, rearing and harvesting of fish, shellfish, algae and other organisms?",
+				"answers": ["Agriculture", "Aquaculture", "Fish Culture"],
+				"correct": 1
+			}
+		],
+		"eval": [
+			{
+				"question": "Sample eval for Fisheries Management",
+				"answers": [""]
+			}
+		]
+	},
+	{
+		"title": "Pagpanudlo nahangod sa Electronic Spreadsheet ",
+		"questions": [
+			{
+				"question": "The number of rows in a worksheet is",
+				"answers": ["36500", "65536", "256", "64536"],
+				"correct": 1
+			},
+			{
+				"question": "When a formatted number does not fit within a cell, it displays",
+				"answers": ["#####", "#DIV/0", "#DIV@", "None of these"],
+				"correct": 0
+			},
+			{
+				"question": "Data can be arranged in ascending or descending order by using",
+				"answers": [
+					"Sort command from Table menu",
+					"Sort command from Data menu",
+					"Sort command from Tools menu",
+					"None of these"
+				],
+				"correct": 1
+			},
+			{
+				"question": "How many sheets are there in Excel Workbook by default?",
+				"answers": ["2", "3", "4", "5"],
+				"correct": 1
+			},
+			{
+				"question": "To move to the previous worksheet press",
+				"answers": ["Ctrl+PgUp", "Ctrl+PgDn", "Shift+Tab", "Ctrl+Tab"],
+				"correct": 0
+			},
+			{
+				"question": "The accounting style shows negative numbers in",
+				"answers": ["Bold", "Brackets", "Paranthesis", "Quotes"],
+				"correct": 2
+			},
+			{
+				"question": "The process of identifying specific rows and columns so that so that certain columns and rows are always visible on the screen is called",
+				"answers": ["freezing", "locking", "selecting", "fixing"],
+				"correct": 0
+			},
+			{
+				"question": "When you create two or four separate windows containing part of the spreadsheet that can be viewed, you have created",
+				"answers": ["sections", "panes", "views", "subsheets"],
+				"correct": 1
+			},
+			{
+				"question": "Which of the following component displays the contents of active cell?",
+				"answers": ["Name box", "Formula bar", "Menu bar", "Status bar"],
+				"correct": 1
+			},
+			{
+				"question": "A quick way to return to a specific area of a worksheet is to type in the _____",
+				"answers": ["Name box", "Formula bar", "Zoom box", "None of these"],
+				"correct": 0
+			},
+			{
+				"question": "The AutoAdd function adds up numbers in a column or row you specify.",
+				"answers": ["True", "False"],
+				"correct": 1
+			},
+			{
+				"question": "\"AAA\" is an example of a ____ in Excel.",
+				"answers": ["cell reference", "column heading", "name box", "row heading"],
+				"correct": 1
+			},
+			{
+				"question": "_______ quickly highlight(s) important information in a spreadsheet that match your criteria by applying formatting options, data bars, color scales, or icon sets.",
+				"answers": ["cell references", "conditional formatting", "Excel tables", "pivot tables"],
+				"correct": 1
+			},
+			{
+				"question": "The best formula to calculate Profits for January is:",
+				"answers": ["SUM(B2:B3)", "B2-B3", "B4-(B2+B3)", "A4-(A2+A3)", "SUBTRACT(B2:B3)"],
+				"correct": 1
+			},
+			{
+				"question": "The best formula to calculate the Average for Profits is:",
+				"answers": ["(B4+C4+D4)/3", "MEAN(B4:E4)", "AVERAGE(B4:D4)", "AVERAGE(B4:E4)"],
+				"correct": 2
+			},
+			{
+				"question": "As a general rule, Excel will _____-align numbers.",
+				"answers": ["right", "left", "top", "bottom"],
+				"correct": 0
+			},
+			{
+				"question": "When you copy a formula that contains an absolute reference to a new location, the reference ____.",
+				"answers": [
+					"is updated automatically",
+					"does not change",
+					"becomes bold",
+					"has a dotted outline in its cell"
+				],
+				"correct": 1
+			},
+			{
+				"question": "Which of the following is a logical function?",
+				"answers": ["AVERAGE", "IF", "SUMPRODUCT", "VLOOKUP"],
+				"correct": 1
+			},
+			{
+				"question": "The image above shows a:",
+				"answers": ["Column chart", "Bar graph", "Line Chart", "Pie Chart"],
+				"correct": 0
+			},
+			{
+				"question": "Excel will reference the chart’s data source above as:",
+				"answers": ["A1:B7", "$A1:B7$", "A$1:$B7", "$A$1:$B$7"],
+				"correct": 3
+			},
+			{
+				"question": "The words \"Pre-sales\" and “Conference Attendance” in the image above are called the chart ______:",
+				"answers": ["accent", "key", "labels", "legend"],
+				"correct": 3
+			},
+			{
+				"question": "____ order arranges content in reverse alphabetical order, from Z to A.",
+				"answers": ["Reverse", "Major", "Ascending", "Descending"],
+				"correct": 3
+			},
+			{
+				"question": "_______ are a powerful tool to quickly group, summarize, and rearrange larger datasets.",
+				"answers": ["Cell references", "Functions", "Pivot tables", "Ranges"],
+				"correct": 2
+			},
+			{
+				"question": "Selecting the “Food” button on the slicer on the right will mean that the data table on the left will:",
+				"answers": [
+					"Show items that match “Food” only.",
+					"Show items that match everything except for “Food”.",
+					"Not be impacted by the “Food” slicer at all.",
+					"All of the above."
+				],
+				"correct": 0
+			},
+			{
+				"question": "A worksheet ____ is a collection of two or more selected worksheets.",
+				"answers": ["index", "roster", "group", "cluster"],
+				"correct": 2
+			},
+			{
+				"question": "A reference that refers to the same cell or range on multiple sheets is called a(n) __________ reference.",
+				"answers": ["3-D", "Clustered", "Indexed", "Pivotal"],
+				"correct": 0
+			},
+			{
+				"question": "A(n) _______________ helps automate repetitive tasks in Excel by recording your steps.",
+				"answers": ["formula", "macro", "solver", "process"],
+				"correct": 1
+			},
+			{
+				"question": "You can use data ___________ to restrict the type of data or the values that users enter into a cell.",
+				"answers": ["auditing", "checking", "tracking", "validation"],
+				"correct": 3
+			},
+			{
+				"question": "The ______ function returns TRUE if any of its arguments evaluate to TRUE, and returns FALSE if all of its arguments evaluate to FALSE.",
+				"answers": ["AND", "OR", "SOME", "LOOKUP"],
+				"correct": 1
+			},
+			{
+				"question": "To determine the number of sales people by region who have 50 or more orders, we use the:",
+				"answers": ["COUNT", "COUNTA", "COUNTIF", "COUNTIFS"],
+				"correct": 3
+			}
+		],
+		"eval": [
+			{
+				"question": "Sample eval for electronic spreadsheet",
+				"answers": [""]
+			}
+		]
+	},
+	{
+		"title": "Pagpanudlo nahangod sa Self-Defense - Criminology",
+		"questions": [
+			{
+				"question": "What is the primary goal of self-defense?",
+				"answers": [
+					"To hurt the attacker",
+					"To protect yourself and escape from harm",
+					"To win a fight",
+					"To show strength"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What is the most vulnerable part of an attacker's body?",
+				"answers": ["Arms", "Legs", "Eyes, nose, throat, and groin", "Shoulders"],
+				"correct": 2
+			},
+			{
+				"question": "What should you do if someone grabs your wrist?",
+				"answers": [
+					"Try to overpower them",
+					"Pull your hand directly away from them",
+					"Rotate your wrist towards the attacker's thumb and pull away",
+					"Push them with your other hand"
+				],
+				"correct": 2
+			},
+			{
+				"question": "What is the best way to defend against an attacker with a weapon?",
+				"answers": [
+					"Try to take the weapon",
+					"Focus on disarming the attacker",
+					"Run away if possible",
+					"Attack the hand holding the weapon"
+				],
+				"correct": 2
+			},
+			{
+				"question": "Why is situational awareness important in self-defense?",
+				"answers": [
+					"It helps you notice potential threats before they occur",
+					"It makes you look strong",
+					"It helps you focus on one thing",
+					"It distracts the attacker"
+				],
+				"correct": 0
+			},
+			{
+				"question": "If you're pushed from behind, what should you do to regain balance?",
+				"answers": [
+					"Fall to the ground and roll away",
+					"Step forward and widen your stance",
+					"Jump to the side",
+					"Stay still and hold your ground"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What is a key principle of Krav Maga, a popular self-defense system?",
+				"answers": [
+					"Focus on form and technique",
+					"Use maximum force to disable your attacker quickly",
+					"Fight for as long as possible",
+					"Avoid confrontation at all costs"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What should you do if you’re grabbed from behind?",
+				"answers": [
+					"Try to pull away",
+					"Stomp on the attacker’s foot and strike backwards with your elbow",
+					"Turn around and punch them",
+					"Call for help"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What’s the first thing you should try to do in a dangerous situation?",
+				"answers": [
+					"Fight the attacker",
+					"Call for help",
+					"Run away if it’s safe to do so",
+					"Negotiate with the attacker"
+				],
+				"correct": 2
+			},
+			{
+				"question": "What is the best stance for self-defense?",
+				"answers": [
+					"Feet together and arms down",
+					"Feet shoulder-width apart with one foot slightly back, hands up",
+					"Sitting down",
+					"Kneeling"
+				],
+				"correct": 1
+			},
+			{
+				"question": "How can you defend against a choke from the front?",
+				"answers": [
+					"Punch the attacker's arms",
+					"Push the attacker’s chest",
+					"Turn your head to the side, raise your arms, and bring them down on the attacker’s arms",
+					"Wait for the attacker to loosen their grip"
+				],
+				"correct": 2
+			},
+			{
+				"question": "What should you yell if you’re in danger and need help?",
+				"answers": ["Help!", "No!", "Fire!", "Stop!"],
+				"correct": 2
+			},
+			{
+				"question": "What part of your body should you use to strike an attacker’s nose?",
+				"answers": ["Your palm", "Your fist", "Your elbow", "Your knee"],
+				"correct": 0
+			},
+			{
+				"question": "When defending yourself, what is the main goal?",
+				"answers": [
+					"To defeat your attacker",
+					"To escape and get to safety",
+					"To immobilize the attacker",
+					"To show strength and intimidate the attacker"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What is the best way to block a punch to the head?",
+				"answers": [
+					"Duck and move backward",
+					"Raise your arms to shield your head",
+					"Step to the side",
+					"Catch the punch"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What can you do if an attacker grabs your clothing?",
+				"answers": [
+					"Step back to break free",
+					"Push the attacker",
+					"Pull the attacker towards you while striking vulnerable areas",
+					"Hold on to the attacker’s arms"
+				],
+				"correct": 2
+			},
+			{
+				"question": "What is the most important factor in self-defense?",
+				"answers": ["Strength", "Aggression", "Confidence and quick thinking", "Size"],
+				"correct": 2
+			},
+			{
+				"question": "How should you position your body to defend against a kick?",
+				"answers": [
+					"Face forward with your legs together",
+					"Step to the side and maintain balance",
+					"Jump backward",
+					"Lean towards the attacker"
+				],
+				"correct": 1
+			},
+			{
+				"question": "What is the best way to avoid dangerous situations?",
+				"answers": [
+					"Walk with a group",
+					"Avoid going out at night",
+					"Be aware of your surroundings and avoid isolated areas",
+					"Carry a weapon"
+				],
+				"correct": 2
+			},
+			{
+				"question": "What is an effective strategy when grabbed by the neck from behind?",
+				"answers": [
+					"Pull the attacker’s arms away",
+					"Drop your weight and strike backwards with your elbow or foot",
+					"Run forward to loosen their grip",
+					"Try to yell for help"
+				],
+				"correct": 1
+			}
+		],
+		"eval": [
+			{
+				"question": "Nagakaigo gid ang topiko sa akon nga kinahanglan s pangabuhi o trabaho",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Ang pagpasunod sang topiko mayo kag may yara nga sistema",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Ang presentasyon o demo nga ginpakita nagasunod sa tinutuyo nga mas maintindihan",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Nagahatag sang oportunidad nga makapamangkot para nga mas maintindihan",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Gapakita ang manugtudlo sang iya nahibal-an sa topiko",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Sigurado siya nga matuod kag mapatihan ang iya ginasaysay nga impormasyon",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Matawhay ang pagpasunod sang iya topiko agud madali maintindihan",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Maayo siya magsaysay kag wala gautay utay ang iya paghambal",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Makasabat siya sa pamangkot kag mapaintindi ang iya sabat sa tagpalamati",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Nagajhatag sang inspirasyom sa tagppalamati agud nga mangin interesado sa topiko",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Nagapakita ang facilitator sang ila propesyonalismo sa ila nga pagbulig sa training o seminar",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Matinahuron, pasensyoso kag mabinuligon sa mga nagabuylog sang paghanas",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Nagahatag sang matawhay kag maayo nga lugar para sa pagtuon sang bag-o nga impormasyon",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Ginamanehar ang bilog nga grupo agud nga matawhay ang dalagan sang training",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Maayo ang kalidad kag masustansya ang ila nga ginhatag nga pagkaon",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Ang pag-amuma sa nagahatag sa mga nagabuylog sang training sang katawhay",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Nagakaigo kag matawhay ang lugat nga ginhiwatan sang training.",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Ini nga training nakapasar gid sa akon ekspektasyon",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Ini nga training isa sa mga manami nga training nga akon nasaksihan",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			},
+			{
+				"question": "Ginbag-o sang training nga ini ang akon nabal an kag padayunon ko ang ginahimo",
+				"answers": ["1(Pigado)", "2(Kasarangan)", "3(Maayo)", "4(Mas Maayo)", "5(Pinakamaayo)"]
+			}
+		]
+	}
+]
